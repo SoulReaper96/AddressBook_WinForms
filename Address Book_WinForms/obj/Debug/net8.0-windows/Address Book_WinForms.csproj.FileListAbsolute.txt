@@ -1,0 +1,17 @@
+G:\Studies\Address Book_WinForms\Address Book_WinForms\bin\Debug\net8.0-windows\Address Book_WinForms.exe
+G:\Studies\Address Book_WinForms\Address Book_WinForms\bin\Debug\net8.0-windows\Address Book_WinForms.deps.json
+G:\Studies\Address Book_WinForms\Address Book_WinForms\bin\Debug\net8.0-windows\Address Book_WinForms.runtimeconfig.json
+G:\Studies\Address Book_WinForms\Address Book_WinForms\bin\Debug\net8.0-windows\Address Book_WinForms.dll
+G:\Studies\Address Book_WinForms\Address Book_WinForms\bin\Debug\net8.0-windows\Address Book_WinForms.pdb
+G:\Studies\Address Book_WinForms\Address Book_WinForms\obj\Debug\net8.0-windows\Address Book_WinForms.csproj.GenerateResource.cache
+G:\Studies\Address Book_WinForms\Address Book_WinForms\obj\Debug\net8.0-windows\Address Book_WinForms.GeneratedMSBuildEditorConfig.editorconfig
+G:\Studies\Address Book_WinForms\Address Book_WinForms\obj\Debug\net8.0-windows\Address Book_WinForms.AssemblyInfoInputs.cache
+G:\Studies\Address Book_WinForms\Address Book_WinForms\obj\Debug\net8.0-windows\Address Book_WinForms.AssemblyInfo.cs
+G:\Studies\Address Book_WinForms\Address Book_WinForms\obj\Debug\net8.0-windows\Address Book_WinForms.csproj.CoreCompileInputs.cache
+G:\Studies\Address Book_WinForms\Address Book_WinForms\obj\Debug\net8.0-windows\Address Book_WinForms.dll
+G:\Studies\Address Book_WinForms\Address Book_WinForms\obj\Debug\net8.0-windows\refint\Address Book_WinForms.dll
+G:\Studies\Address Book_WinForms\Address Book_WinForms\obj\Debug\net8.0-windows\Address Book_WinForms.pdb
+G:\Studies\Address Book_WinForms\Address Book_WinForms\obj\Debug\net8.0-windows\Address Book_WinForms.genruntimeconfig.cache
+G:\Studies\Address Book_WinForms\Address Book_WinForms\obj\Debug\net8.0-windows\ref\Address Book_WinForms.dll
+G:\Studies\Address Book_WinForms\Address Book_WinForms\obj\Debug\net8.0-windows\Address_Book_WinForms.AddressBookMain.resources
+G:\Studies\Address Book_WinForms\Address Book_WinForms\obj\Debug\net8.0-windows\Address_Book_WinForms.AddContact.resources
