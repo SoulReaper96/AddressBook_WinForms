@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Address Book_WinForms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38cb98bb38b504d8d92a9abb504947c4627ec23b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66bb43d5caaebf3fdc755f94b54c4b0a924af507")]
 [assembly: System.Reflection.AssemblyProductAttribute("Address Book_WinForms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Address Book_WinForms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
